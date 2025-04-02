@@ -1,0 +1,10 @@
+{
+  "name": "repro-deno-stage-3-decorators",
+  "version": "1.0.0",
+  "main": "file.js",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.8.2"
+  }
+}
