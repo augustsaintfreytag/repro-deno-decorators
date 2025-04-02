@@ -1,4 +1,4 @@
-A reproduction project for Deno on the use of Stage 3 decorators in TypeScript for class properties with applied type mutations. The example code works when compiled using `tsc` and run with Node but not when run with Deno.
+A reproduction project for an apparent bug in Deno on the use of Stage 3 decorators in TypeScript for class properties with applied type mutations. The example code works when compiled using `tsc` and run with Node but not when run with Deno.
 
 Expected output, working in Node:
 
