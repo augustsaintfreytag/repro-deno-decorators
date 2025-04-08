@@ -1,2 +1,9 @@
+# Project
+
 node_modules
-file.js
+build
+
+# System
+
+.DS_Store
+Thumbs.db
