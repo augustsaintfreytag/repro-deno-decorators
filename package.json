@@ -2,6 +2,7 @@
   "name": "repro-deno-stage-3-decorators",
   "version": "1.0.0",
   "main": "file.js",
+  "type": "module",
   "private": true,
   "license": "MIT",
   "dependencies": {
